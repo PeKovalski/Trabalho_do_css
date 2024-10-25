@@ -1,6 +1,6 @@
 body{
     font-family: Arial, Helvetica, sans-serif;
-    color: #ffb38e;
+    background-color: #ffb38e;
     line-height: 1.6;
 }
     header{
@@ -27,3 +27,4 @@ margin-bottom: 0,5rem;
         list-style: none;
         padding: 0.2;
     }
+     nav ul li
