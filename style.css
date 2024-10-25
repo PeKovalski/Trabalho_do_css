@@ -27,4 +27,8 @@ margin-bottom: 0,5rem;
         list-style: none;
         padding: 0.2;
     }
-     nav ul li
+     nav ul li a{
+        color: #ffffff;
+        text-decoration: none;
+        
+     }
