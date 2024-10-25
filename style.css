@@ -3,4 +3,27 @@ body{
     color: #ffb38e;
     line-height: 1.6;
 }
-    header
+    header{
+        background-color: #9b7ebd;
+        color: white;
+        width: 100%;
+        padding: 20px;
+        text-align: center;
+    }
+
+    header h1{
+font-size: 2rem;
+margin-bottom: 0,5rem;
+    }
+
+    nav{
+        background-color: #d4bee4;
+    }
+    <title{display: flex;}
+
+    nav ul{
+        display: flex;
+        justify-content: center;
+        list-style: none;
+        padding: 0.2;
+    }
