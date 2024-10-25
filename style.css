@@ -24,6 +24,7 @@ margin-bottom: 0,5rem;
     }
     
     title{display: flex;}
+    
 
     nav ul{
         text-align: center;
@@ -37,7 +38,7 @@ margin-bottom: 0,5rem;
         color: #ffffff;
         text-decoration: none;
         font-weight: bold;
-        padding: ;
+       
         
      }
      main{
